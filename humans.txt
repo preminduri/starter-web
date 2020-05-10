@@ -8,12 +8,10 @@
 # THANKS
 
     Thanks to you
-<<<<<<< HEAD
-	just got to know about merging
-=======
-	hereby causing conflict 
->>>>>>> prone to cause conflict
 
+	just got to know about merging
+
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
