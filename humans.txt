@@ -8,7 +8,11 @@
 # THANKS
 
     Thanks to you
+<<<<<<< HEAD
 	just got to know about merging
+=======
+	hereby causing conflict 
+>>>>>>> prone to cause conflict
 
 # TECHNOLOGY COLOPHON
 
