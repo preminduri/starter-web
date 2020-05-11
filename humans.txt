@@ -8,8 +8,10 @@
 # THANKS
 
     Thanks to you
+
 	just got to know about merging
 
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
